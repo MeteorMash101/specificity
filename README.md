@@ -1,4 +1,6 @@
 # Specificity Software: Achieve your goals by being specific.
+**Tech Stack: HTML/CSS/Javascript, React, Express, MySQL, Node.**
+
 Hello! This project is currently still in the "being worked on" stage, but I really love the concept and really look forward to seeing the final product. Enjoy the read!
 
 ![alt text](https://github.com/MeteorMash101/specificity/blob/main/snapshots/pics_1.png?raw=true)
