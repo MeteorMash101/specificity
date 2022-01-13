@@ -1,0 +1,9 @@
+.editBtn {
+    max-height: 30px;
+    background-color: rgb(248, 151, 72);
+}
+
+.removeBtn {
+    max-height: 30px;
+    background-color: rgb(250, 111, 111);
+}

@@ -1,0 +1,12 @@
+.miniNavbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mainGoal {
+    display: inline-block;
+    font-size: small;
+    font-weight: bold;
+    max-width: 80px;
+    color: gold;
+}

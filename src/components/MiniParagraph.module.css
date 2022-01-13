@@ -1,0 +1,15 @@
+.miniParagraph {
+    font-size: large;
+    background-color: grey;
+    border: 2px solid lightblue;
+    color: white;
+    width: 280px;
+    max-width: 280px;
+    height: 90px;
+    max-height: 90px;
+    margin: 3% auto;
+    /* This truncates the desc. if too long... */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 2%;
+}

@@ -1,0 +1,12 @@
+.actGC {
+    display: flex;
+    border: grey solid 2px;
+    border-radius: 10px; 
+    padding: 5px; 
+    width: 12%; 
+    height: 50px;
+    background-color: rgb(126, 241, 226); 
+    border-style: solid; 
+    align-items: center;
+    justify-content: center;
+}

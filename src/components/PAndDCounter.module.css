@@ -1,0 +1,9 @@
+.pAndDContainer {
+    display: block;
+}
+
+.pContent {
+    margin: 0;
+    font-size: smaller;
+    font-weight: bold;
+}
